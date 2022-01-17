@@ -1,4 +1,4 @@
-# SQL-challenge
+# Database querying for Business Development 
 Data engineering and analysis 
 
 ## Background
